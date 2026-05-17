@@ -1,0 +1,59 @@
+body{
+    padding: 0;
+    margin: 0;
+    padding: 200px;
+    
+}
+.tout{
+    background-color: whitesmoke;
+}
+.menu img{
+    padding: 30px;
+    margin-top: 10px;
+    
+    width: 95%;
+    border-radius: 100px;
+}
+.pres h1{
+    margin-left: 30px;
+    font-weight: 900px;
+    font-size: 50px;
+}
+.pres p{
+    margin-left: 30px;
+    
+}
+.time{
+    background-color: pink;
+    margin-left: 30px;
+    width: 95%;
+    border-radius: 10px;
+}
+.time h1{
+    margin-left: 2%;
+    color: lightcoral;
+}
+.time ul li span{
+    font-weight: 600;
+    border-radius: 10%;
+}
+.ing h1{
+    margin-left: 2%;
+    color:lightcoral ;
+}
+.ins h1{
+    margin-left: 2%;
+    color:lightcoral ;
+}
+.nut .hh{
+     margin-left: 2%;
+    color:lightcoral ;
+}
+.mm{
+    display: flex;
+    gap: 600px;
+}
+.mm h1{
+    color: crimson;
+    
+}
